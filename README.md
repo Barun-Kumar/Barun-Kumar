@@ -1,6 +1,6 @@
 <!-- Header Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Barun%20Kumar%20Vishwakarma&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20System%20Design%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Barun%20Vishwakarma&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20System%20Design%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" />
 </div>
 
 <!-- Visitor Badge + Social Row -->
